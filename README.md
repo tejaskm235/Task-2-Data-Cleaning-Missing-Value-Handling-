@@ -1,7 +1,5 @@
 Task 2: Data Cleaning & Missing Value Handling
 
-AI & ML Internship – Elevate Labs
-
 Objective
 
 The objective of this task is to analyze data quality and handle missing values using standard data cleaning techniques. Two datasets were used to demonstrate the identification, visualization, handling, and validation of missing data for machine learning readiness.
